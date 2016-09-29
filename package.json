@@ -1,6 +1,6 @@
 {
   "name": "pull-scan",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Scan algorithm for pull streams",
   "main": "index.js",
   "scripts": {
