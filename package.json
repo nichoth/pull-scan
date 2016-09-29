@@ -4,6 +4,8 @@
   "description": "Scan algorithm for pull streams",
   "main": "index.js",
   "scripts": {
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags && npm publish",
     "test": "eslint **/*.js && tape test/*.js | tap-spec"
   },
   "repository": {
