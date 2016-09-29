@@ -1,4 +1,4 @@
-## pull scan
+## pull scan [![Build Status](https://travis-ci.org/nichoth/pull-scan.svg?branch=master)](https://travis-ci.org/nichoth/pull-scan)
 
 [Scan algorithm](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/scan.md) for pull streams. It's like reduce, but emits intermediate values. So it's more like map but with an accumulator argument.
 
