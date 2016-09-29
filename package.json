@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nichoth/pull-scan-through.git"
+    "url": "git+https://github.com/nichoth/pull-scan.git"
   },
   "keywords": [
     "pull",
